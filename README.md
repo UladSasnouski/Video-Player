@@ -1,2 +1,2 @@
 # Video-Player
-https://uladsasnouski.github.io/Video-Player
+https://astarovojtov.github.io/Video-Player
